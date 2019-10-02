@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Bienvenido al sitio oficial del Stock Manager App
 
-You can use the [editor on GitHub](https://github.com/herny123456/StockManagerApp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Siendo 2 de Octubre del 2019 tenemos el agrado de informar que el 99% del stock de ITeDA está subido a la base de datos. En él podrás encontrar componentes electrónicos, herramientas y consumibles. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Para acceder a dicha base de datos deberás ingresar a la app “Stock Manager ITeDA” donde podrás agregar o retirar componentes y modificar ciertos campos como la descripción y ubicación de los mismos. 
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+sad 
 
-```markdown
-Syntax highlighted code block
+### Importante
 
-# probando 1 2 3 
-## Header 2
-### asdf
+Te pedimos que seas consciente que muchos de los componentes, herramientas y consumibles fueron subidos a la base de datos manualmente por lo tanto te pedimos que si los vas a cambiar de lugar lo informes en la base de datos. De la misma forma si usaste todos los componentes, consumibles o dejó de ser útil cierta herramienta por favor modificar el campo “cantidad”. Si hay una nueva compra esta debe ser cargada a la base de datos antes de ser guardada.    
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/herny123456/StockManagerApp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Soporte
+hernan.medina@iteda.cnea.gov.ar
