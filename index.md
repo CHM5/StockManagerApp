@@ -14,15 +14,15 @@ Te pedimos que seas consciente que muchos de los artículos fueron subidos a la 
  - si la descripción no concuerda con el componente/herramienta/consumible lo informes en la base de datos modificando el campo "descripción".
  - si encontras un componente que no está en la ubicación en la que debería estar lo informes en la base de datos modificando el campo "ubicación"
  
-Si entre todos cumplimos estos 5 preceptos podemos lograr que la base de datos se mantenga en el tiempo.
+Si entre todos cumplimos estos preceptos podemos lograr que la base de datos se mantenga en el tiempo.
  
 ### Extra
 
-Toda posible mejora es bienvenida por eso si se te ocurre alguna por favor informalo en la app sección "Sugerencias".
+Toda posible mejora es bienvenida por eso si tenes alguna por favor informalo en la app sección "Sugerencias".
 
 ### Descarga la app:
 
-https://play.google.com/store/apps/details?id=iteda.cnea.StockManager
+<link rel="stylesheet" href="https://play.google.com/store/apps/details?id=iteda.cnea.StockManager">
 
 ### Consultas o soporte
 hernan.medina@iteda.cnea.gov.ar
