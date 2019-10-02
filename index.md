@@ -22,7 +22,7 @@ Toda posible mejora es bienvenida por eso si tenes alguna por favor informalo en
 
 ### Descarga la app
 
-https://play.google.com/store/apps/details?id=iteda.cnea.StockManager
+Hola (pagina)[https://play.google.com/store/apps/details?id=iteda.cnea.StockManager].
 
 ### Consultas o soporte
 hernan.medina@iteda.cnea.gov.ar
