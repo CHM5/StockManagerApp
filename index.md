@@ -20,7 +20,7 @@ Si entre todos cumplimos estos preceptos podemos lograr que la base de datos se 
 
 Toda posible mejora es bienvenida por eso si tenes alguna por favor informalo en la app sección "Sugerencias".
 
-### Descarga la app:
+### Descarga la app
 
 <link "https://play.google.com/store/apps/details?id=iteda.cnea.StockManager">
 
