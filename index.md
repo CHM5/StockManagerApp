@@ -6,19 +6,21 @@ Para acceder a la base de datos deberás ingresar a la app “Stock Manager ITeD
 
 ### Importante
 
-Te pedimos que seas consciente que muchos de los artículos fueron subidos a la base de datos manualmente por eso te pedimos que:
- - si los vas a cambiar de lugar lo informes en la base de datos modificando el campo "ubicación". 
- - si usaste todos los componentes/consumibles (ej: quedaban 5 resistencias y usaste todas) lo informes en la base de datos modificando el campo “cantidad”. 
- - si terminó la vida útil de una herramienta y va a quedar fuera de funcionamiento lo informes en la base de datos modificando el campo "cantidad" y "ubicación" (este último deberá tener la leyenda "NULL"). 
- - si hay una nueva compra lo informes en la base de datos modificando el campo "cantidad".
- - si la descripción no concuerda con el componente/herramienta/consumible lo informes en la base de datos modificando el campo "descripción".
- - si encontras un componente que no está en la ubicación en la que debería estar lo informes en la base de datos modificando el campo "ubicación"
+Dado que muchos de los artículos fueron subidos a la base de datos manualmente, te pedimos que:
+ - si los vas a cambiar de lugar, modificá el campo "ubicación" del artículo. 
+ - si usaste todos los componentes/consumibles (ej: quedaban 5 resistencias y usaste todas), modificá el campo “cantidad” del artículo. 
+ - si terminó la vida útil de una herramienta y va a quedar fuera de funcionamiento, modificá el campo "cantidad" y "ubicación" (este último deberá tener la leyenda "NULL") del artículo. 
+ - si hay una nueva compra, modificá el campo "cantidad" o agregá un nuevo artículo a la base de datos.
+ - si la descripción no concuerda con el artículo, modificá el campo "descripción".
+ - si encontras un componente que no está en la ubicación en la que debería estar, modificá el campo "ubicación" del artículo.
  
-Si entre todos cumplimos estos preceptos podemos lograr que la base de datos se mantenga en el tiempo.
+Nota: el "artículo" puede ser un componente electrónico, una herramienta o un consumible.
+ 
+Si entre todos cumplimos estos preceptos podemos lograr que la base de datos se mantenga estable en el tiempo.
  
 ### Extra
 
-Toda posible mejora es bienvenida por eso si tenes alguna por favor informalo en la app sección "Sugerencias".
+Toda posible mejora es bienvenida por eso si tenes alguna por favor informalo en la app (sección "Sugerencias").
 
 ### Descarga la app
 
